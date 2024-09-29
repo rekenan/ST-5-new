@@ -1,7 +1,6 @@
 package org.example;
 
-class Sqrt
-{
+public class Sqrt {
     double delta=0.00000001;
     double arg;
 
